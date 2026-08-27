@@ -1,4 +1,3 @@
-
 export const personal = {
   name: "Balla Sandeep Sankar",
   role: "Software Engineer | Backend & AI",
@@ -10,12 +9,8 @@ export const personal = {
   github: "https://github.com/Balla-Sandeep-Sankar-NITW",
   linkedin: "https://linkedin.com/in/balla-sandeep-sankar",
   leetcode: "https://leetcode.com/u/Balla_Sandeep_Sankar/",
-<<<<<<< HEAD
   resume:
-    "https://drive.google.com/file/d/1_aLU9SvFCKme7-anUpcJRr0pzuHn6jSI/view?usp=drive_link",
-=======
-  resume: "https://drive.google.com/file/d/1IM1-ZY7wZXz5q8P9K7-ZDmArl9DbAPsK/view?usp=sharing",
->>>>>>> 41dff590721daee959573d23136c7f3e97772649
+    "https://drive.google.com/file/d/1IM1-ZY7wZXz5q8P9K7-ZDmArl9DbAPsK/view?usp=sharing",
 };
 
 export const systemStatus = [
@@ -92,7 +87,6 @@ export const skills = {
     "Communication",
   ],
 
-<<<<<<< HEAD
   Coursework: [
     "Data Structures & Algorithms",
     "Machine Learning",
@@ -102,8 +96,6 @@ export const skills = {
     "Probability & Statistics",
   ],
 
-=======
->>>>>>> 41dff590721daee959573d23136c7f3e97772649
   "Areas of Interest": [
     "Generative AI Applications",
     "Deep Learning",
@@ -116,32 +108,12 @@ export const skills = {
 export const experience = [
   {
     id: "01",
-<<<<<<< HEAD
     organization: "Salesforce",
     role: "Incoming Summer Intern",
     period: "Summer 2027",
     type: "Internship",
     description:
       "Selected for the Salesforce Summer Internship Program 2027.",
-=======
-    name: "FreshSense AI",
-    tagline: "Computer Vision for Food Freshness",
-    problem: "Food waste occurs because people cannot accurately identify early-stage spoilage, lack real-time freshness monitoring, and do not receive intelligent recommendations to consume food before it goes bad.",
-    solution: "An end-to-end Agentic AI system that uses YOLOv8 for fruit detection, EfficientNet-B0 for freshness prediction, a learning agent for dynamic shelf-life tracking, and recipe recommendations to help users consume food before spoilage and reduce waste.",
-    tech: [
-      "Python",
-      "FastAPI",
-      "Pydantic",
-      "PostgreSQL",
-      "SQLAlchemy",
-      "JWT",
-      "bcrypt",
-      "Pinecone",
-      "SMTP",
-      "Voyage AI",
-    ],
-    outcome: "Detects fruits in real time, predicts freshness scores, continuously improves shelf-life estimates through adaptive learning, generates spoilage alerts, and recommends recipes to reduce household food waste.",
->>>>>>> 41dff590721daee959573d23136c7f3e97772649
     accent: "cyan",
   },
   {
@@ -220,7 +192,6 @@ export const projects = [
       "Built an end-to-end computer vision system for real-time fruit detection, freshness estimation, shelf-life tracking, automated spoilage alerts, and recipe recommendations to reduce food waste.",
 
     accent: "cyan",
-<<<<<<< HEAD
 
     repository:
       "https://github.com/Balla-Sandeep-Sankar-NITW/FreshSense-AI",
@@ -279,10 +250,6 @@ export const achievements = [
     title: "NIT Warangal",
     description:
       "B.Tech in Computer Science Engineering (Artificial Intelligence and Data Science) with a CGPA of 9.00/10.00.",
-=======
-    repository : "https://github.com/Balla-Sandeep-Sankar-NITW/IQI-GWO-Feature-Selection-for-Image-Classification",
-    Documentation : "https://balla-sandeep-sankar-nitw.github.io/IQI-GWO-Feature-Selection-for-Image-Classification/documentation.html"
->>>>>>> 41dff590721daee959573d23136c7f3e97772649
   },
 ];
 
@@ -295,4 +262,3 @@ export const learning = [
   "LLM Applications",
   "AI Infrastructure",
 ];
-
